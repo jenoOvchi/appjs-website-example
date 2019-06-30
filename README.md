@@ -1,1 +1,1 @@
-# kubia-website-example
+# appjs-website-example
